@@ -1,0 +1,6 @@
+print("Hello world")
+print("inam Khan")
+print("Welcome to Python programming")
+print("inaklhanwolrd")
+print(1)
+lst = list(map(int, input("Enter numbers: ").split()))
